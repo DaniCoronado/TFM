@@ -1,0 +1,3 @@
+- __ensemble__: containing the different ensemble combinations we studied.
+  - __chain_classifiers__: based on the output to input model architecture.
+  - __model_stacking__: based on the combination of model output architecture.
