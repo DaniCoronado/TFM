@@ -1,0 +1,3 @@
+- __processed__: URL containing the post-processing database in Kaggle.
+- __raw__: URL containing the initial database in Kaggle.
+- __5ms-data-cleasing-class-balancing.ipynb__: notebook containing the preprocessing pipeline steps.
